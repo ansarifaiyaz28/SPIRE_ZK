@@ -1,0 +1,861 @@
+Start testing: Jun 20 16:22 EDT
+----------------------------------------------------------
+1/33 Testing: CurveConstants.check_Modulus_Pallas
+1/33 Test: CurveConstants.check_Modulus_Pallas
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_Modulus_Pallas" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_Modulus_Pallas" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_Modulus_Pallas
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_Modulus_Pallas
+[       OK ] CurveConstants.check_Modulus_Pallas (926 ms)
+[----------] 1 test from CurveConstants (926 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (926 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.99 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_Modulus_Pallas" end time: Jun 20 16:22 EDT
+"CurveConstants.check_Modulus_Pallas" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/33 Testing: CurveConstants.check_R_Pallas
+2/33 Test: CurveConstants.check_R_Pallas
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_R_Pallas" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_R_Pallas" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_R_Pallas
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_R_Pallas
+[       OK ] CurveConstants.check_R_Pallas (542 ms)
+[----------] 1 test from CurveConstants (542 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (542 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_R_Pallas" end time: Jun 20 16:22 EDT
+"CurveConstants.check_R_Pallas" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/33 Testing: CurveConstants.check_R2_Pallas
+3/33 Test: CurveConstants.check_R2_Pallas
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_R2_Pallas" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_R2_Pallas" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_R2_Pallas
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_R2_Pallas
+[       OK ] CurveConstants.check_R2_Pallas (539 ms)
+[----------] 1 test from CurveConstants (539 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (539 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_R2_Pallas" end time: Jun 20 16:22 EDT
+"CurveConstants.check_R2_Pallas" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/33 Testing: CurveConstants.check_R3_Pallas
+4/33 Test: CurveConstants.check_R3_Pallas
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_R3_Pallas" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_R3_Pallas" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_R3_Pallas
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_R3_Pallas
+[       OK ] CurveConstants.check_R3_Pallas (537 ms)
+[----------] 1 test from CurveConstants (537 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (537 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_R3_Pallas" end time: Jun 20 16:22 EDT
+"CurveConstants.check_R3_Pallas" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/33 Testing: CurveConstants.check_Generator_Pallas
+5/33 Test: CurveConstants.check_Generator_Pallas
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_Generator_Pallas" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_Generator_Pallas" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_Generator_Pallas
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_Generator_Pallas
+[       OK ] CurveConstants.check_Generator_Pallas (4901 ms)
+[----------] 1 test from CurveConstants (4901 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4901 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.94 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_Generator_Pallas" end time: Jun 20 16:22 EDT
+"CurveConstants.check_Generator_Pallas" time elapsed: 00:00:04
+----------------------------------------------------------
+
+6/33 Testing: CurveConstants.check_Inv_Pallas
+6/33 Test: CurveConstants.check_Inv_Pallas
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_Inv_Pallas" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_Inv_Pallas" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_Inv_Pallas
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_Inv_Pallas
+[       OK ] CurveConstants.check_Inv_Pallas (537 ms)
+[----------] 1 test from CurveConstants (537 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (537 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_Inv_Pallas" end time: Jun 20 16:22 EDT
+"CurveConstants.check_Inv_Pallas" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/33 Testing: CurveConstants.check_Modulus_Vesta
+7/33 Test: CurveConstants.check_Modulus_Vesta
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_Modulus_Vesta" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_Modulus_Vesta" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_Modulus_Vesta
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_Modulus_Vesta
+[       OK ] CurveConstants.check_Modulus_Vesta (530 ms)
+[----------] 1 test from CurveConstants (530 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (530 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_Modulus_Vesta" end time: Jun 20 16:22 EDT
+"CurveConstants.check_Modulus_Vesta" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/33 Testing: CurveConstants.check_R_Vesta
+8/33 Test: CurveConstants.check_R_Vesta
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_R_Vesta" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_R_Vesta" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_R_Vesta
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_R_Vesta
+[       OK ] CurveConstants.check_R_Vesta (537 ms)
+[----------] 1 test from CurveConstants (537 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (537 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_R_Vesta" end time: Jun 20 16:22 EDT
+"CurveConstants.check_R_Vesta" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/33 Testing: CurveConstants.check_R2_Vesta
+9/33 Test: CurveConstants.check_R2_Vesta
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_R2_Vesta" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_R2_Vesta" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_R2_Vesta
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_R2_Vesta
+[       OK ] CurveConstants.check_R2_Vesta (540 ms)
+[----------] 1 test from CurveConstants (540 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (540 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_R2_Vesta" end time: Jun 20 16:22 EDT
+"CurveConstants.check_R2_Vesta" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/33 Testing: CurveConstants.check_R3_Vesta
+10/33 Test: CurveConstants.check_R3_Vesta
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_R3_Vesta" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_R3_Vesta" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_R3_Vesta
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_R3_Vesta
+[       OK ] CurveConstants.check_R3_Vesta (526 ms)
+[----------] 1 test from CurveConstants (526 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (526 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.56 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_R3_Vesta" end time: Jun 20 16:22 EDT
+"CurveConstants.check_R3_Vesta" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/33 Testing: CurveConstants.check_Generator_Vesta
+11/33 Test: CurveConstants.check_Generator_Vesta
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_Generator_Vesta" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_Generator_Vesta" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_Generator_Vesta
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_Generator_Vesta
+[       OK ] CurveConstants.check_Generator_Vesta (2537 ms)
+[----------] 1 test from CurveConstants (2537 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2537 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.58 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_Generator_Vesta" end time: Jun 20 16:22 EDT
+"CurveConstants.check_Generator_Vesta" time elapsed: 00:00:02
+----------------------------------------------------------
+
+12/33 Testing: CurveConstants.check_Inv_Vesta
+12/33 Test: CurveConstants.check_Inv_Vesta
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=CurveConstants.check_Inv_Vesta" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"CurveConstants.check_Inv_Vesta" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CurveConstants.check_Inv_Vesta
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CurveConstants
+[ RUN      ] CurveConstants.check_Inv_Vesta
+[       OK ] CurveConstants.check_Inv_Vesta (534 ms)
+[----------] 1 test from CurveConstants (534 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (534 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"CurveConstants.check_Inv_Vesta" end time: Jun 20 16:22 EDT
+"CurveConstants.check_Inv_Vesta" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/33 Testing: PointTests.check_Point_generation
+13/33 Test: PointTests.check_Point_generation
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_Point_generation" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_Point_generation" start time: Jun 20 16:22 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_Point_generation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_Point_generation
+[       OK ] PointTests.check_Point_generation (17457 ms)
+[----------] 1 test from PointTests (17457 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (17457 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  17.51 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_Point_generation" end time: Jun 20 16:23 EDT
+"PointTests.check_Point_generation" time elapsed: 00:00:17
+----------------------------------------------------------
+
+14/33 Testing: PointTests.check_Point_addition
+14/33 Test: PointTests.check_Point_addition
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_Point_addition" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_Point_addition" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_Point_addition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_Point_addition
+[       OK ] PointTests.check_Point_addition (4584 ms)
+[----------] 1 test from PointTests (4584 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4584 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.63 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_Point_addition" end time: Jun 20 16:23 EDT
+"PointTests.check_Point_addition" time elapsed: 00:00:04
+----------------------------------------------------------
+
+15/33 Testing: PointTests.check_point_uint64_multiplication
+15/33 Test: PointTests.check_point_uint64_multiplication
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_point_uint64_multiplication" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_point_uint64_multiplication" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_point_uint64_multiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_point_uint64_multiplication
+[       OK ] PointTests.check_point_uint64_multiplication (4567 ms)
+[----------] 1 test from PointTests (4567 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4567 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.61 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_point_uint64_multiplication" end time: Jun 20 16:23 EDT
+"PointTests.check_point_uint64_multiplication" time elapsed: 00:00:04
+----------------------------------------------------------
+
+16/33 Testing: PointTests.check_Point_Scalar_Multiplication
+16/33 Test: PointTests.check_Point_Scalar_Multiplication
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_Point_Scalar_Multiplication" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_Point_Scalar_Multiplication" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_Point_Scalar_Multiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_Point_Scalar_Multiplication
+[       OK ] PointTests.check_Point_Scalar_Multiplication (4551 ms)
+[----------] 1 test from PointTests (4551 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4551 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.59 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_Point_Scalar_Multiplication" end time: Jun 20 16:23 EDT
+"PointTests.check_Point_Scalar_Multiplication" time elapsed: 00:00:04
+----------------------------------------------------------
+
+17/33 Testing: PointTests.check_double
+17/33 Test: PointTests.check_double
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_double" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_double" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_double
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_double
+[       OK ] PointTests.check_double (4556 ms)
+[----------] 1 test from PointTests (4556 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4556 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.60 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_double" end time: Jun 20 16:23 EDT
+"PointTests.check_double" time elapsed: 00:00:04
+----------------------------------------------------------
+
+18/33 Testing: PointTests.check_Mixed_add
+18/33 Test: PointTests.check_Mixed_add
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_Mixed_add" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_Mixed_add" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_Mixed_add
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_Mixed_add
+[       OK ] PointTests.check_Mixed_add (4566 ms)
+[----------] 1 test from PointTests (4566 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4566 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.61 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_Mixed_add" end time: Jun 20 16:23 EDT
+"PointTests.check_Mixed_add" time elapsed: 00:00:04
+----------------------------------------------------------
+
+19/33 Testing: PointTests.check_wellformed
+19/33 Test: PointTests.check_wellformed
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_wellformed" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_wellformed" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_wellformed
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_wellformed
+[       OK ] PointTests.check_wellformed (109 ms)
+[----------] 1 test from PointTests (109 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (109 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_wellformed" end time: Jun 20 16:23 EDT
+"PointTests.check_wellformed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/33 Testing: PointTests.check_affine
+20/33 Test: PointTests.check_affine
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_affine" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_affine" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_affine
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_affine
+[       OK ] PointTests.check_affine (107 ms)
+[----------] 1 test from PointTests (107 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (107 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_affine" end time: Jun 20 16:23 EDT
+"PointTests.check_affine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/33 Testing: PointTests.check_equal
+21/33 Test: PointTests.check_equal
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_equal" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_equal" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_equal
+[       OK ] PointTests.check_equal (104 ms)
+[----------] 1 test from PointTests (104 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (104 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_equal" end time: Jun 20 16:23 EDT
+"PointTests.check_equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/33 Testing: PointTests.check_unequal
+22/33 Test: PointTests.check_unequal
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=PointTests.check_unequal" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"PointTests.check_unequal" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTests.check_unequal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTests
+[ RUN      ] PointTests.check_unequal
+[       OK ] PointTests.check_unequal (109 ms)
+[----------] 1 test from PointTests (109 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (109 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"PointTests.check_unequal" end time: Jun 20 16:23 EDT
+"PointTests.check_unequal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/33 Testing: FieldTests.check_montgomery
+23/33 Test: FieldTests.check_montgomery
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_montgomery" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_montgomery" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_montgomery
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_montgomery
+[       OK ] FieldTests.check_montgomery (101 ms)
+[----------] 1 test from FieldTests (101 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (101 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_montgomery" end time: Jun 20 16:23 EDT
+"FieldTests.check_montgomery" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/33 Testing: FieldTests.check_equal_operator
+24/33 Test: FieldTests.check_equal_operator
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_equal_operator" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_equal_operator" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_equal_operator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_equal_operator
+[       OK ] FieldTests.check_equal_operator (96 ms)
+[----------] 1 test from FieldTests (96 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (96 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_equal_operator" end time: Jun 20 16:23 EDT
+"FieldTests.check_equal_operator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/33 Testing: FieldTests.check_not_equal_operator
+25/33 Test: FieldTests.check_not_equal_operator
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_not_equal_operator" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_not_equal_operator" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_not_equal_operator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_not_equal_operator
+[       OK ] FieldTests.check_not_equal_operator (97 ms)
+[----------] 1 test from FieldTests (97 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (98 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_not_equal_operator" end time: Jun 20 16:23 EDT
+"FieldTests.check_not_equal_operator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/33 Testing: FieldTests.check_greater_than_equal
+26/33 Test: FieldTests.check_greater_than_equal
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_greater_than_equal" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_greater_than_equal" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_greater_than_equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_greater_than_equal
+[       OK ] FieldTests.check_greater_than_equal (95 ms)
+[----------] 1 test from FieldTests (95 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (95 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_greater_than_equal" end time: Jun 20 16:23 EDT
+"FieldTests.check_greater_than_equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/33 Testing: FieldTests.check_less_than_equal
+27/33 Test: FieldTests.check_less_than_equal
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_less_than_equal" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_less_than_equal" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_less_than_equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_less_than_equal
+[       OK ] FieldTests.check_less_than_equal (97 ms)
+[----------] 1 test from FieldTests (97 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (97 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_less_than_equal" end time: Jun 20 16:23 EDT
+"FieldTests.check_less_than_equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/33 Testing: FieldTests.check_addition
+28/33 Test: FieldTests.check_addition
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_addition" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_addition" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_addition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_addition
+[       OK ] FieldTests.check_addition (97 ms)
+[----------] 1 test from FieldTests (97 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (97 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_addition" end time: Jun 20 16:23 EDT
+"FieldTests.check_addition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/33 Testing: FieldTests.check_negation
+29/33 Test: FieldTests.check_negation
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_negation" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_negation" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_negation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_negation
+[       OK ] FieldTests.check_negation (0 ms)
+[----------] 1 test from FieldTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_negation" end time: Jun 20 16:23 EDT
+"FieldTests.check_negation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/33 Testing: FieldTests.check_double
+30/33 Test: FieldTests.check_double
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_double" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_double" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_double
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_double
+[       OK ] FieldTests.check_double (0 ms)
+[----------] 1 test from FieldTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_double" end time: Jun 20 16:23 EDT
+"FieldTests.check_double" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/33 Testing: FieldTests.check_square
+31/33 Test: FieldTests.check_square
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_square" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_square" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_square
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_square
+[       OK ] FieldTests.check_square (0 ms)
+[----------] 1 test from FieldTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_square" end time: Jun 20 16:23 EDT
+"FieldTests.check_square" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/33 Testing: FieldTests.check_is_zero
+32/33 Test: FieldTests.check_is_zero
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_is_zero" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_is_zero" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_is_zero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_is_zero
+[       OK ] FieldTests.check_is_zero (0 ms)
+[----------] 1 test from FieldTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_is_zero" end time: Jun 20 16:23 EDT
+"FieldTests.check_is_zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/33 Testing: FieldTests.check_clear
+33/33 Test: FieldTests.check_clear
+Command: "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests" "--gtest_filter=FieldTests.check_clear" "--gtest_also_run_disabled_tests"
+Directory: /home/grad-02/SPIRE_ZK/pallas_vesta/build
+"FieldTests.check_clear" start time: Jun 20 16:23 EDT
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FieldTests.check_clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FieldTests
+[ RUN      ] FieldTests.check_clear
+[       OK ] FieldTests.check_clear (0 ms)
+[----------] 1 test from FieldTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FieldTests.check_clear" end time: Jun 20 16:23 EDT
+"FieldTests.check_clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 20 16:23 EDT

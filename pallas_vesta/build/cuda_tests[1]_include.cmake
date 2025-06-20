@@ -1,0 +1,5 @@
+if(EXISTS "/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests[1]_tests.cmake")
+  include("/home/grad-02/SPIRE_ZK/pallas_vesta/build/cuda_tests[1]_tests.cmake")
+else()
+  add_test(cuda_tests_NOT_BUILT cuda_tests_NOT_BUILT)
+endif()
